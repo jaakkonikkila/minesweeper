@@ -1,4 +1,4 @@
-# minesweeper is the first project ever made by me and my classmate in the first year of studies in TUNI 
+# Minesweeper is the first project ever made by me and my classmate in the first year of studies in TUNI 
 COMP.CS.100 Ohjelmointi 1 / Programming 1
 
 Minesweeper game template
