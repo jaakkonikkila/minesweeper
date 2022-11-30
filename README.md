@@ -9,8 +9,7 @@ is obviously 8 and minimum is 0. If user presses zero, the game shows all zeros
 touching it and numbers touching that area. If you press all tiles
 without pressing a mine, you win. If you press a mine, you lose.
 
-Program is an advanced version of project.
-
+# Creators:
 Name: Taneli Liedes
 
 Email: taneli.liedes@tuni.fi
