@@ -11,10 +11,10 @@ without pressing a mine, you win. If you press a mine, you lose.
 
 Program is an advanced version of project.
 
-Student Id: H291837
-Name:       Taneli Liedes
-Email:      taneli.liedes@tuni.fi
+Name: Taneli Liedes
 
-Student Id: H292323
-Name:       Jaakko Nikkilä
-Email:      jaakko.nikkila@tuni.fi
+Email: taneli.liedes@tuni.fi
+
+Name: Jaakko Nikkilä
+
+Email: jaakko.nikkila@tuni.fi / jaakko.nikkila.1@gmail.com
