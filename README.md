@@ -9,6 +9,20 @@ is obviously 8 and minimum is 0. If user presses zero, the game shows all zeros
 touching it and numbers touching that area. If you press all tiles
 without pressing a mine, you win. If you press a mine, you lose.
 
+# HOW TO PLAY
+Left upper corner "Game" opens a menu where you can select 3 different difficulties
+
+Left click to show tile(s)
+
+Right click to flag bombs
+
+# Features
+Tracks your time
+
+Saves highscore per level but highscores gets reset when you exit program
+
+MOST FUN YOU WILL EVER HAVE
+
 # Creators:
 Name: Taneli Liedes
 
